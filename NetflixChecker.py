@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 init(convert=True)
  
 print(f'''{Fore.RED}
-Loading.. Netflix Checker  ~coded by Nightfall#2512~
+Loading.. Netflix Checker  ~coded by Shiina~
 ''')
  
 options = webdriver.ChromeOptions()
